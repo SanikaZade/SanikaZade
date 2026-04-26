@@ -1,22 +1,14 @@
 <h1 align="center">Hi 👋, I'm Sanika Zade</h1>
 <h3 align="center">Final Year B.Tech AIML Student | Data Analytics Enthusiast | Aspiring ML Engineer</h3>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sanikazade&label=Profile%20views&color=0e75b6&style=flat" alt="sanikazade" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sanikazade&theme=algolia&margin-w=15&margin-h=15" />
-</p>
-
 ---
 
 ### 🚀 About Me
 - 🎓 Final Year B.Tech AIML Student  
-- 📊 Passionate about **Data Analytics, Machine Learning & Real-World Problem Solving**  
-- 🧠 Skilled in **Python, Data Analysis, Visualization, and ML Models**  
-- 🔍 Interested in **Data-driven decision making & intelligent systems**
-
+- 📊 Working on Data Analytics and Machine Learning with a focus on real-world problem solving  
+- 🧠 Skilled in Python, data analysis, visualization, and building ML models  
+- 📈 Developed projects including real estate price trend analysis and student mental health prediction  
+- 🔍 Interested in creating data-driven solutions and extracting meaningful insights from data  
 ---
 
 ### 🛠️ Projects
@@ -38,25 +30,30 @@
 - **Databases:** MySQL, MongoDB  
 
 ---
-
 ### 🌐 Connect with Me
 
 <p align="left">
+
 <a href="https://twitter.com/sanikazade" target="_blank">
-  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
-</a>
+  <img src="https://img.icons8.com/ios-filled/50/ffffff/x.png" height="35"/>
+</a>&nbsp;&nbsp;
 
 <a href="https://www.linkedin.com/in/sanikazade" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
+  <img src="https://img.icons8.com/color/48/linkedin.png" height="35"/>
+</a>&nbsp;&nbsp;
 
 <a href="https://www.kaggle.com/sanikazade" target="_blank">
-  <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" />
-</a>
+  <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-kaggle-an-online-community-of-data-scientists-and-machine-learners-owned-by-google-logo-color-tal-revivo.png" height="35"/>
+</a>&nbsp;&nbsp;
 
 <a href="https://www.instagram.com/_sanikazade_" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  <img src="https://img.icons8.com/color/48/instagram-new--v1.png" height="35"/>
+</a>&nbsp;&nbsp;
+
+<a href="https://www.reddit.com/user/Unusual_Copy_7568/" target="_blank">
+  <img src="https://img.icons8.com/color/48/reddit.png" height="35"/>
 </a>
+
 </p>
 
 ---
@@ -65,9 +62,11 @@
 
 <p align="left">
 
-🔹 <a href="https://github.com/SanikaZade" target="_blank"><b>View My GitHub Portfolio</b></a>  
+💼 Focused on Data Analytics, Visualization, and Machine Learning solutions  
 
-🔹 <a href="https://drive.google.com/file/d/17xZ92nt2RwOmkJ22zx-9LUhojKqfPZOV/view" target="_blank"><b>Download My Resume</b></a>
+🚀 <a href="https://github.com/SanikaZade" target="_blank"><b>Explore My Projects & Technical Work</b></a>  
+
+📄 <a href="https://drive.google.com/file/d/17xZ92nt2RwOmkJ22zx-9LUhojKqfPZOV/view" target="_blank"><b>View My Resume</b></a>
 
 </p>
 
