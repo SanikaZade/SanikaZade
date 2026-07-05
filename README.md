@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Sanika Zade</h1>
 <h3 align="center">Final Year B.Tech AIML Student | Data Analytics Enthusiast | Aspiring ML Engineer</h3>
 
-
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=36BCF7&center=true&vCenter=true&width=500&lines=Data+Analytics+Enthusiast;Machine+Learning+Learner;Building+Real+World+Projects;Open+to+Internships" />
+</p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Open%20to-Internships-green?style=flat" />
