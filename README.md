@@ -25,8 +25,10 @@
 🔹 <strong>Location-Based Real Estate Price Trend Analyzer</strong><br>
 👉 <a href="https://github.com/SanikaZade/Real-Estate" target="_blank">View Project</a>
 
-🔹 <strong>BuyerLens – Real Estate Segmentation Intelligence Dashboard</strong><br>
-👉 <a href="https://github.com/SanikaZade/BuyerLens-Real-Estate-Segmentation-Intelligence-Dashboard" target="_blank">View Project</a>
+🔹 <strong>AI-Powered Smart Supply Chain Management System</strong><br>
+👉 <a href="https://github.com/SanikaZade/supply_chain" target="_blank">View Project</a>
+
+---
 
 ### 💻 Skills
 
@@ -80,10 +82,11 @@
 
 ---
 
-### 📊 GitHub Stats
+### 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sanikazade&show_icons=true&theme=tokyonight" />
+  <img src="https://streak-stats.demolab.com?user=SanikaZade&theme=tokyonight&hide_border=true" />
+</p>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sanikazade&theme=tokyonight" />
 </p>
 
