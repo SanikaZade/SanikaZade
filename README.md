@@ -85,9 +85,8 @@
 ### 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SanikaZade&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SanikaZade&theme=tokyonight" alt="Profile Summary" />
 </p>
-
 ---
 
 ### 📊 Additional Insights
