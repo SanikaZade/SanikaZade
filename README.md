@@ -22,12 +22,11 @@
 
 ### 🛠️ Projects
 
-🔹 **Location-Based Real Estate Price Trend Analyzer**  
-👉 <a href="https://github.com/SanikaZade/Real-Estate" target="_blank">View Project</a>  
+🔹 <strong>Location-Based Real Estate Price Trend Analyzer</strong><br>
+👉 <a href="https://github.com/SanikaZade/Real-Estate" target="_blank">View Project</a>
 
 🔹 <strong>BuyerLens – Real Estate Segmentation Intelligence Dashboard</strong><br>
 👉 <a href="https://github.com/SanikaZade/BuyerLens-Real-Estate-Segmentation-Intelligence-Dashboard" target="_blank">View Project</a>
----
 
 ### 💻 Skills
 
