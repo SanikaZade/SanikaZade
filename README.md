@@ -84,11 +84,8 @@
 
 ### 🔥 GitHub Streak
 
-### 📊 GitHub Stats
-
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SanikaZade&theme=tokyonight" />
-</p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanikazade&layout=compact&theme=tokyonight" />
@@ -112,4 +109,4 @@
 ---
 
 ### ⚡ Fun Fact
-⚡ I love applying data analytics & machine learning to solve real-world problems
+ I love applying data analytics & machine learning to solve real-world problems
