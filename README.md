@@ -102,7 +102,7 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=sanikazade&theme=tokyo-night" />
 </p>
 
-
+---
 
 ### ⚡ Fun Fact
  I love applying data analytics & machine learning to solve real-world problems
