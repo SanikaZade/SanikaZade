@@ -12,11 +12,11 @@
 ---
 
 ### 🚀 About Me
-- 🎓 Final Year B.Tech AIML Student  
-- 📊 Working on Data Analytics and Machine Learning with a focus on real-world problem solving  
-- 🧠 Skilled in Python, data analysis, visualization, and building ML models  
-- 📈 Developed projects including real estate price trend analysis and student mental health prediction  
-- 🔍 Interested in creating data-driven solutions and extracting meaningful insights from data  
+-  Final Year B.Tech AIML Student  
+-  Working on Data Analytics and Machine Learning with a focus on real-world problem solving  
+-  Skilled in Python, data analysis, visualization, and building ML models  
+-  Developed projects including real estate price trend analysis and student mental health prediction  
+-  Interested in creating data-driven solutions and extracting meaningful insights from data  
 
 ---
 
