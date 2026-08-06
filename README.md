@@ -76,7 +76,7 @@
 
 🚀 <a href="https://github.com/SanikaZade" target="_blank"><b>Explore My Projects & Technical Work</b></a>  
 
-📄 <a href="https://drive.google.com/file/d/17xZ92nt2RwOmkJ22zx-9LUhojKqfPZOV/view" target="_blank"><b>View My Resume</b></a>
+📄 <a https://drive.google.com/file/d/1Z-Gbphrn2o7cuJeuz9E9NjIgqtFWFREC/view?usp=sharing"><b>View My Resume</b></a>
 
 </p>
 
