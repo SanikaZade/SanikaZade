@@ -120,7 +120,8 @@ A no-code automated pipeline built on n8n that accepts a PDF upload, extracts ed
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SanikaZade&theme=tokyo-night" alt="GitHub activity graph" />
+ <p align="center">
+  <img src="https://streak-stats.demolab.com/?user=SanikaZade&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
 </p>
 
 ---
