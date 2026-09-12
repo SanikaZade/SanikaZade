@@ -120,10 +120,12 @@ A no-code automated pipeline built on n8n that accepts a PDF upload, extracts ed
 </p>
 
 <p align="center">
- <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=SanikaZade&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SanikaZade/SanikaZade/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SanikaZade/SanikaZade/output/github-snake.svg" />
+    <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/SanikaZade/SanikaZade/output/github-snake.svg" />
+  </picture>
 </p>
-
 ---
 
 ## 🌐 Connect with Me
