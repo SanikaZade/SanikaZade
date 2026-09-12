@@ -78,7 +78,7 @@ Predicts real estate prices by location using a Linear Regression model evaluate
 
 ### 📝 Automated Question Generator (n8n + Gemini)
 
-A no-code/low-code automated pipeline built on n8n that accepts a PDF upload, extracts educational content, and uses the **Google Gemini API** to generate a CBSE-style question bank at three difficulty levels (Easy, Medium, Hard) — exported as a downloadable TXT file.
+A no-code automated pipeline built on n8n that accepts a PDF upload, extracts educational content, and uses the **Google Gemini API** to generate a CBSE-style question bank at three difficulty levels (Easy, Medium, Hard) — exported as a downloadable TXT file.
 
 **Tech:** n8n · Google Gemini API · JavaScript · PDF Text Extraction
 
@@ -99,7 +99,7 @@ A no-code/low-code automated pipeline built on n8n that accepts a PDF upload, ex
 | **Web development** | Flask, Bootstrap 5 |
 | **Automation and GenAI** | n8n, Google Gemini API, OpenAI API |
 | **Databases** | MySQL, MongoDB, SQLite |
-| **DevOps and tools** | Docker, Git, GitHub, Jupyter Notebook, Gunicorn, ReportLab |
+| **DevOps and tools** | Docker, Git, GitHub, Jupyter Notebook|
 
 ---
 
