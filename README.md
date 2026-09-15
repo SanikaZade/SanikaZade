@@ -119,7 +119,9 @@ A no-code automated pipeline built on n8n that accepts a PDF upload, extracts ed
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SanikaZade&theme=tokyonight" alt="Most committed language" />
 </p>
 
-tttt
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SanikaZade&theme=github-compact&hide_border=true" width="100%" />
+</p>
 ---
 
 ## 🌐 Connect with Me
