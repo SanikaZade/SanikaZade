@@ -120,7 +120,7 @@ A no-code automated pipeline built on n8n that accepts a PDF upload, extracts ed
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=SanikaZade&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github.pumbas.net/api/contributions/SanikaZade" alt="SanikaZade's GitHub Contributions" width="100%">
 </p>
 
 ---
