@@ -20,13 +20,40 @@ Final-year B.Tech AI/ML student · Data Analytics Enthusiast · Aspiring ML Engi
 
 ---
 
-## 👩‍💻 About Me
+I enjoy applying data analytics, machine learning, and generative AI to messy, real-world problems — the harder the dataset, the more interesting the story it tells.
 
-- 🎓 Final-year B.Tech AI/ML student seeking internships in data analytics and machine learning.
-- 🛠️ Building end-to-end data-driven applications — from exploratory analysis and model training to web deployment.
-- 📊 Skilled in Python, SQL, data analysis, visualization, and machine-learning workflows.
-- 🤖 Exploring generative AI and workflow automation using n8n and LLM APIs.
-- 🌍 Interested in turning messy real-world data into useful, actionable insights.
+```mermaid
+%%{init: {"flowchart": {"nodeSpacing": 25, "rankSpacing": 55}}}%%
+flowchart LR
+    ME(("👩‍💻 SANIKA ZADE"))
+
+    ME --> CW["🚀 Currently Working On"]
+    CW --> CW1[Machine Learning & Computer Vision]
+    CW --> CW2[BI & Real-Time Analytics Dashboards]
+    CW --> CW3[Claude Console, Gemini, OpenAI & Groq]
+    CW --> CW4[n8n & Local AI Media Pipelines]
+
+    ME --> EX["🏆 Skilled In"]
+    EX --> EX1[End-to-End ML & DL Pipelines]
+    EX --> EX2[Prompt Engineering & Claude Workbench]
+    EX --> EX3[Full-Stack AI Apps: FastAPI, Flask, React, Streamlit]
+
+    ME --> COL["🤝 Looking to Collaborate"]
+    COL --> COL1[Data Analytics & ML Internships]
+    COL --> COL2[Production AI & SaaS Platforms]
+    COL --> COL3[LLM Agents & Automated Workflows]
+
+    ME --> ASK["💬 Ask Me About"]
+    ASK --> ASK1[Python, SQL, Pandas & Plotly]
+    ASK --> ASK2[Scikit-learn, XGBoost, TensorFlow & OpenCV]
+    ASK --> ASK3[Claude Console, n8n, FastAPI & MoneyPrinterTurbo]
+
+    style ME fill:#0B4C7C,stroke:#083656,stroke-width:2px,color:#fff
+    style CW fill:#2D9CDB,stroke:#1B6FA8,color:#fff
+    style EX fill:#2D9CDB,stroke:#1B6FA8,color:#fff
+    style COL fill:#2D9CDB,stroke:#1B6FA8,color:#fff
+    style ASK fill:#2D9CDB,stroke:#1B6FA8,color:#fff
+```
 
 ---
 
