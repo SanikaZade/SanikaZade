@@ -7,7 +7,6 @@
 ### FINAL-YEAR B.TECH AI/ML STUDENT · DATA ANALYTICS ENTHUSIAST · ASPIRING ML & GENAI ENGINEER
 
 
-
    [](https://github.com/SanikaZade) [GitHub Followers](https://www.google.com/search?q=https://github.com/SanikaZade%3Ftab%3Dfollowers)
 
 ---
