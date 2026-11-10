@@ -56,77 +56,25 @@ flowchart LR
 ```
 
 ---
+## 🚀 Technical Arsenal & AI Workflow Stack
 
-## 🚀 Featured Projects
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=github,git,docker,vscode,anaconda,notion,nodejs,supabase,tailwind,js,react,vite,ts&perline=7&theme=dark" alt="Core Tech Stack" />
+</p>
 
----
-
-### 🎓 AI College Recommendation & Counseling System
-
-A deployed Flask application that recommends Maharashtra engineering colleges using CET percentile, category, branch, city, fees, hostel needs, and scholarship eligibility. Powered by **140 institutes and 3,135 official CET CAP-IV closing-score rows** across Nagpur, Amravati, Pune, Mumbai, and Nashik. Includes admission probability scoring, an OpenAI GPT counseling module with a rule-based fallback, Chart.js visualizations, and a downloadable PDF counseling report.
-
-**Tech:** Python · Flask · SQLite · OpenAI API · Bootstrap 5 · Chart.js · ReportLab · Gunicorn
-
-🔗 [View project](https://github.com/SanikaZade/Ai_college_recommendation) &nbsp;|&nbsp; 🌐 [Live app](https://ai-college-recommendation-2.onrender.com)
-
----
-
-### 📦 Amazon India Sales BI Dashboard
-
-A fully interactive, browser-based BI dashboard analyzing **128,017 Amazon India orders** (March–June 2022) worth **₹7.83 Crore**. Features 28 Plotly.js charts across 6 tabs, cross-filtering across all 128k rows in under **50ms**, CSV export per chart, and a dark/light theme toggle — all without a server or database.
-
-Key findings: 14.1% cancellation rate, T-shirts ~50% of revenue, Maharashtra top state at ₹132.7 Lakhs, merchant fulfilment showing a **4.8 pp higher** cancellation rate than Amazon fulfilment.
-
-**Tech:** Python · Pandas · NumPy · Plotly.js · Vanilla JS · HTML/CSS
-
-🔗 [View project](https://github.com/SanikaZade/amazon_dashboard_project) &nbsp;|&nbsp; 🌐 [Live dashboard](https://sanikazade.github.io/amazon_dashboard_project/)
-
----
-
-### 🔗 AI-Powered Smart Supply Chain Management System
-
-A deployed Flask web application for intelligent supply chain decision-making. Uses Scikit-learn and XGBoost for demand forecasting and anomaly detection, calculates EOQ, safety stock, and reorder points for inventory optimisation, and includes a Digital Twin simulation module for scenario planning. Containerised with Docker.
-
-**Tech:** Python · Flask · Scikit-learn · XGBoost · Pandas · NumPy · Chart.js · Docker · Gunicorn
-
-🔗 [View project](https://github.com/SanikaZade/supply_chain) &nbsp;|&nbsp; 🌐 [Live app](https://supply-chain-sk7y.onrender.com)
-
----
-
-### 🏡 Location-Based Real Estate Price Trend Analyzer
-
-Predicts real estate prices by location using a Linear Regression model evaluated with MAE, MSE, and R², and visualizes property data on an interactive Google Maps interface. Built a complete pipeline from raw housing data through preprocessing, feature engineering, and categorical encoding.
-
-**Tech:** Python · Pandas · NumPy · Scikit-learn · JavaScript · Google Maps API · OpenPyXL
-
-🔗 [View project](https://github.com/SanikaZade/Location-Based-Real-Estate-Price-Trend-Analyzer) &nbsp;|&nbsp; 🌐 [Live map](https://sanikazade.github.io/Real-Estate/)
-
----
-
-### 📝 Automated Question Generator (n8n + Gemini)
-
-A no-code automated pipeline built on n8n that accepts a PDF upload, extracts educational content, and uses the **Google Gemini API** to generate a CBSE-style question bank at three difficulty levels (Easy, Medium, Hard) — exported as a downloadable TXT file.
-
-**Tech:** n8n · Google Gemini API · JavaScript · PDF Text Extraction
-
-🔗 [View project](https://github.com/SanikaZade/n8n_Question_Generation)  
-📄 Includes exported n8n workflow JSON and a sample generated question bank output
-
----
-
-## 🛠️ Technical Skills
-
-| Area | Tools and Technologies |
-|---|---|
-| **Languages** | Python, SQL, JavaScript |
-| **Data analysis** | Pandas, NumPy |
-| **Machine learning** | Scikit-learn, XGBoost |
-| **Deep learning** | TensorFlow |
-| **Visualization** | Matplotlib, Seaborn, Plotly.js, Power BI, Chart.js |
-| **Web development** | Flask, Bootstrap 5 |
-| **Automation and GenAI** | n8n, Google Gemini API, OpenAI API |
-| **Databases** | MySQL, MongoDB, SQLite |
-| **DevOps and tools** | Docker, Git, GitHub, Jupyter Notebook|
+<p align="left">
+  <img src="https://img.shields.io/badge/-242938?style=for-the-badge&logo=anthropic&logoColor=D97757" height="48" alt="Anthropic Claude Console" title="Anthropic Claude Console" />
+  <img src="https://img.shields.io/badge/-242938?style=for-the-badge&logo=openai&logoColor=white" height="48" alt="OpenAI Codex" title="OpenAI Codex" />
+  <img src="https://img.shields.io/badge/-242938?style=for-the-badge&logo=cursor&logoColor=white" height="48" alt="Cursor" title="Cursor" />
+  <img src="https://img.shields.io/badge/-242938?style=for-the-badge&logo=google&logoColor=4285F4" height="48" alt="Antigravity" title="Antigravity" />
+  <img src="https://img.shields.io/badge/-242938?style=for-the-badge&logo=streamlit&logoColor=FF4B4B" height="48" alt="Streamlit" title="Streamlit" />
+  <img src="https://img.shields.io/badge/-242938?style=for-the-badge&logo=googlecolab&logoColor=F9AB00" height="48" alt="Google Colab" title="Google Colab" />
+  <img src="https://img.shields.io/badge/-242938?style=for-the-badge&logo=jupyter&logoColor=F37626" height="48" alt="Jupyter Notebook" title="Jupyter Notebook" />
+  <img src="https://img.shields.io/badge/-242938?style=for-the-badge&logo=n8n&logoColor=EA4B71" height="48" alt="n8n" title="n8n" />
+  <img src="https://img.shields.io/badge/-242938?style=for-the-badge&logo=canva&logoColor=00C4CC" height="48" alt="Canva" title="Canva" />
+  <img src="https://img.shields.io/badge/-242938?style=for-the-badge&logo=slack&logoColor=4A154B" height="48" alt="Slack" title="Slack" />
+  <img src="https://img.shields.io/badge/Runway_ML-242938?style=for-the-badge&logoColor=white" height="48" alt="Runway ML" title="Runway ML" />
+</p>
 
 ---
 
