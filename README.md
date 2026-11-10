@@ -61,6 +61,7 @@ flowchart LR
 
 ### 🧠 AI Engineering, ML & Notebooks
 <p align="left">
+  <img src="https://skillicons.dev/icons?i=py,pytorch,tensorflow,sklearn&theme=dark" alt="Python, PyTorch, TensorFlow, scikit-learn" />
   <img src="https://go-skill-icons.vercel.app/api/icons?i=claude&theme=dark" height="48" alt="Anthropic Claude Console" title="Anthropic Claude Console" />
 <img src="https://go-skill-icons.vercel.app/api/icons?i=chatgpt&theme=dark" height="48" alt="Codex" title="Codex" />
   <img src="https://go-skill-icons.vercel.app/api/icons?i=cursor&theme=dark" height="48" alt="Cursor" title="Cursor" />
@@ -80,6 +81,7 @@ flowchart LR
 ### 🌐 Full-Stack & Web Development
 <p align="left">
   <img src="https://skillicons.dev/icons?i=js,ts,react,vite,tailwind,nodejs,supabase&theme=dark" alt="Web Stack" />
+  <img src="https://skillicons.dev/icons?i=vercel,render,hostinger&theme=dark" alt="Vercel, Render, Hostinger" />
 </p> 
 
 ### 🤖 AI Automation
