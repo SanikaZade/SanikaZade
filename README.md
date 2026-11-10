@@ -67,27 +67,35 @@ flowchart LR
   <img src="https://go-skill-icons.vercel.app/api/icons?i=streamlit&theme=dark" height="48" alt="Streamlit" title="Streamlit" />
   <img src="https://go-skill-icons.vercel.app/api/icons?i=googlecolab&theme=dark" height="48" alt="Google Colab" title="Google Colab" />
   <img src="https://go-skill-icons.vercel.app/api/icons?i=jupyter&theme=dark" height="48" alt="Jupyter Notebook" title="Jupyter Notebook" />
-  <img src="https://img.shields.io/badge/Antigravity-242938?style=for-the-badge&logoColor=white" height="48" alt="Antigravity" title="Antigravity" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=antigravity&theme=dark" height="48" alt="Antigravity" title="Antigravity" />
   <img src="https://img.shields.io/badge/Runway_ML-242938?style=for-the-badge&logoColor=white" height="48" alt="Runway ML" title="Runway ML" />
+
 </p>
 
 ### ⚙️ IDEs, Version Control & DevOps
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=github,git,docker,vscode,anaconda,notion&theme=dark" alt="DevOps and IDEs" />
+  <img src="https://skillicons.dev/icons?i=github,git,docker,vscode,anaconda&theme=dark" alt="DevOps and IDEs" /> 
 </p>
 
 ### 🌐 Full-Stack & Web Development
 <p align="left">
   <img src="https://skillicons.dev/icons?i=js,ts,react,vite,tailwind,nodejs,supabase&theme=dark" alt="Web Stack" />
-</p>
+</p> 
 
-### 💬 Productivity & Workflow Automation
+### 🤖 AI Automation
 <p align="left">
   <img src="https://go-skill-icons.vercel.app/api/icons?i=n8n&theme=dark" height="48" alt="n8n" title="n8n" />
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=slack&theme=dark" height="48" alt="Slack" title="Slack" />
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=canva&theme=dark" height="48" alt="Canva" title="Canva" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=claude&theme=dark" height="48" alt="Claude Console" title="Claude Console" />
 </p>
 
+### 💬 Productivity & Collaboration
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=notion&theme=dark" height="48" alt="Notion" title="Notion" />
+<img src="https://cdn.simpleicons.org/perplexity/1FB8CD" height="40" alt="Perplexity" title="Perplexity" />
+<img src="https://cdn.simpleicons.org/notebooklm/white" height="40" alt="NotebookLM" title="NotebookLM" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=slack&theme=dark" height="48" alt="Slack" title="Slack" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=canva&theme=dark" height="48" alt="Canva" title="Canva" />
+</p> 
 ---
 
 ## 📊 GitHub Stats
