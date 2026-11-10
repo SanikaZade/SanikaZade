@@ -56,24 +56,35 @@ flowchart LR
 ```
 
 ---
-## 🚀 Technical Arsenal & AI Workflow Stack
+## 🧠 AI Engineering, ML & Full-Stack Ecosystem
 
+**🤖 Generative AI, Notebooks & Workflow Automation**
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=github,git,docker,vscode,anaconda,notion,nodejs,supabase,tailwind,js,react,vite,ts&perline=7&theme=dark" alt="Core Tech Stack" />
+  <img src="https://img.shields.io/badge/Claude_Console-242938?style=for-the-badge&logo=anthropic&logoColor=D97757" height="38" alt="Anthropic Claude Console" />
+  <img src="https://img.shields.io/badge/OpenAI_Codex-242938?style=for-the-badge&logo=openai&logoColor=white" height="38" alt="OpenAI Codex" />
+  <img src="https://img.shields.io/badge/Cursor-242938?style=for-the-badge&logo=cursor&logoColor=white" height="38" alt="Cursor" />
+  <img src="https://img.shields.io/badge/Antigravity-242938?style=for-the-badge&logo=google&logoColor=4285F4" height="38" alt="Antigravity" />
+  <img src="https://img.shields.io/badge/Streamlit-242938?style=for-the-badge&logo=streamlit&logoColor=FF4B4B" height="38" alt="Streamlit" />
+  <img src="https://img.shields.io/badge/Google_Colab-242938?style=for-the-badge&logo=googlecolab&logoColor=F9AB00" height="38" alt="Google Colab" />
+  <img src="https://img.shields.io/badge/Jupyter-242938?style=for-the-badge&logo=jupyter&logoColor=F37626" height="38" alt="Jupyter Notebook" />
+  <img src="https://img.shields.io/badge/n8n-242938?style=for-the-badge&logo=n8n&logoColor=EA4B71" height="38" alt="n8n" />
+  <img src="https://img.shields.io/badge/Runway_ML-242938?style=for-the-badge&logoColor=white" height="38" alt="Runway ML" />
 </p>
 
+**⚙️ IDEs, DevOps & Environment Management**
 <p align="left">
-  <img src="https://img.shields.io/badge/-242938?style=for-the-badge&logo=anthropic&logoColor=D97757" height="48" alt="Anthropic Claude Console" title="Anthropic Claude Console" />
-  <img src="https://img.shields.io/badge/-242938?style=for-the-badge&logo=openai&logoColor=white" height="48" alt="OpenAI Codex" title="OpenAI Codex" />
-  <img src="https://img.shields.io/badge/-242938?style=for-the-badge&logo=cursor&logoColor=white" height="48" alt="Cursor" title="Cursor" />
-  <img src="https://img.shields.io/badge/-242938?style=for-the-badge&logo=google&logoColor=4285F4" height="48" alt="Antigravity" title="Antigravity" />
-  <img src="https://img.shields.io/badge/-242938?style=for-the-badge&logo=streamlit&logoColor=FF4B4B" height="48" alt="Streamlit" title="Streamlit" />
-  <img src="https://img.shields.io/badge/-242938?style=for-the-badge&logo=googlecolab&logoColor=F9AB00" height="48" alt="Google Colab" title="Google Colab" />
-  <img src="https://img.shields.io/badge/-242938?style=for-the-badge&logo=jupyter&logoColor=F37626" height="48" alt="Jupyter Notebook" title="Jupyter Notebook" />
-  <img src="https://img.shields.io/badge/-242938?style=for-the-badge&logo=n8n&logoColor=EA4B71" height="48" alt="n8n" title="n8n" />
-  <img src="https://img.shields.io/badge/-242938?style=for-the-badge&logo=canva&logoColor=00C4CC" height="48" alt="Canva" title="Canva" />
-  <img src="https://img.shields.io/badge/-242938?style=for-the-badge&logo=slack&logoColor=4A154B" height="48" alt="Slack" title="Slack" />
-  <img src="https://img.shields.io/badge/Runway_ML-242938?style=for-the-badge&logoColor=white" height="48" alt="Runway ML" title="Runway ML" />
+  <img src="https://skillicons.dev/icons?i=anaconda,docker,git,github,vscode,notion&theme=dark" alt="IDEs and DevOps" />
+</p>
+
+**🌐 Full-Stack Web & App Deployment**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=js,ts,react,vite,tailwind,nodejs,supabase&theme=dark" alt="Web Stack" />
+</p>
+
+**🎨 Collaboration & Design**
+<p align="left">
+  <img src="https://img.shields.io/badge/Slack-242938?style=for-the-badge&logo=slack&logoColor=4A154B" height="38" alt="Slack" />
+  <img src="https://img.shields.io/badge/Canva-242938?style=for-the-badge&logo=canva&logoColor=00C4CC" height="38" alt="Canva" />
 </p>
 
 ---
