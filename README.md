@@ -56,16 +56,12 @@ flowchart LR
 ```
 
 ---
+
 ## 🛠️ Tools & Technologies
 
 ### 🧠 AI Engineering, ML & Notebooks
 <p align="left">
-  <img src="https://img.shields.io/badge/-242938?style=for-the-badge&logo=anthropic&logoColor=D97757" height="48" alt="Anthropic Claude Console" title="Anthropic Claude Console" />
-  <img src="https://img.shields.io/badge/-242938?style=for-the-badge&logo=openai&logoColor=white" height="48" alt="Codex" title="Codex" />
-  <img src="https://img.shields.io/badge/-242938?style=for-the-badge&logo=cursor&logoColor=white" height="48" alt="Cursor" title="Cursor" />
-  <img src="https://img.shields.io/badge/-242938?style=for-the-badge&logo=streamlit&logoColor=FF4B4B" height="48" alt="Streamlit" title="Streamlit" />
-  <img src="https://img.shields.io/badge/-242938?style=for-the-badge&logo=googlecolab&logoColor=F9AB00" height="48" alt="Google Colab" title="Google Colab" />
-  <img src="https://img.shields.io/badge/-242938?style=for-the-badge&logo=jupyter&logoColor=F37626" height="48" alt="Jupyter Notebook" title="Jupyter Notebook" />
+  <img src="https://skillicons.dev/icons?i=anthropic,openai,cursor,streamlit,colab,jupyter&theme=dark" alt="AI Engineering and Notebooks" />
   <img src="https://img.shields.io/badge/Antigravity-242938?style=for-the-badge&logoColor=white" height="48" alt="Antigravity" title="Antigravity" />
   <img src="https://img.shields.io/badge/Runway_ML-242938?style=for-the-badge&logoColor=white" height="48" alt="Runway ML" title="Runway ML" />
 </p>
@@ -82,9 +78,7 @@ flowchart LR
 
 ### 💬 Productivity & Workflow Automation
 <p align="left">
-  <img src="https://img.shields.io/badge/-242938?style=for-the-badge&logo=n8n&logoColor=EA4B71" height="48" alt="n8n" title="n8n" />
-  <img src="https://img.shields.io/badge/-242938?style=for-the-badge&logo=slack&logoColor=4A154B" height="48" alt="Slack" title="Slack" />
-  <img src="https://img.shields.io/badge/-242938?style=for-the-badge&logo=canva&logoColor=00C4CC" height="48" alt="Canva" title="Canva" />
+  <img src="https://skillicons.dev/icons?i=n8n,slack,canva&theme=dark" alt="Productivity and Automation" />
 </p>
 ---
 
