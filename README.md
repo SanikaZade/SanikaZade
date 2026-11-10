@@ -62,7 +62,7 @@ flowchart LR
 ### 🧠 AI Engineering, ML & Notebooks
 <p align="left">
   <img src="https://go-skill-icons.vercel.app/api/icons?i=claude&theme=dark" height="48" alt="Anthropic Claude Console" title="Anthropic Claude Console" />
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=openai&theme=dark" height="48" alt="Codex" title="Codex" />
+<img src="https://go-skill-icons.vercel.app/api/icons?i=chatgpt&theme=dark" height="48" alt="Codex" title="Codex" />
   <img src="https://go-skill-icons.vercel.app/api/icons?i=cursor&theme=dark" height="48" alt="Cursor" title="Cursor" />
   <img src="https://go-skill-icons.vercel.app/api/icons?i=streamlit&theme=dark" height="48" alt="Streamlit" title="Streamlit" />
   <img src="https://go-skill-icons.vercel.app/api/icons?i=googlecolab&theme=dark" height="48" alt="Google Colab" title="Google Colab" />
