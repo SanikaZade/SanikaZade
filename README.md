@@ -93,14 +93,16 @@ flowchart LR
 <p align="left">
   <img src="https://go-skill-icons.vercel.app/api/icons?i=n8n&theme=dark" height="48" alt="n8n" title="n8n" />
   <img src="https://go-skill-icons.vercel.app/api/icons?i=claude&theme=dark" height="48" alt="Claude Console" title="Claude Console" />
-</p>
+<img src="https://cdn.simpleicons.org/openrouter/white" height="40" alt="OpenRouter" title="OpenRouter" />
+</p> 
 
 ### 💬 Productivity & Collaboration
 <p align="left">
   <img src="https://skillicons.dev/icons?i=notion&theme=dark" height="48" alt="Notion" title="Notion" />
 <img src="https://cdn.simpleicons.org/perplexity/1FB8CD" height="40" alt="Perplexity" title="Perplexity" />
 <img src="https://cdn.simpleicons.org/notebooklm/white" height="40" alt="NotebookLM" title="NotebookLM" />
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=slack&theme=dark" height="48" alt="Slack" title="Slack" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=slack&theme=dark" height="48" alt="Slack" title="Slack" /> 
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=discord&theme=dark" height="48" alt="Discord" title="Discord" />
   <img src="https://go-skill-icons.vercel.app/api/icons?i=canva&theme=dark" height="48" alt="Canva" title="Canva" />
 </p> 
 ---
