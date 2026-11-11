@@ -70,10 +70,11 @@ flowchart LR
   <img src="https://go-skill-icons.vercel.app/api/icons?i=googlecolab&theme=dark" height="48" alt="Google Colab" title="Google Colab" />
   <img src="https://go-skill-icons.vercel.app/api/icons?i=jupyter&theme=dark" height="48" alt="Jupyter Notebook" title="Jupyter Notebook" />
   <img src="https://go-skill-icons.vercel.app/api/icons?i=antigravity&theme=dark" height="48" alt="Antigravity" title="Antigravity" />
-  <img src="https://img.shields.io/badge/-242938?style=for-the-badge&logo=langchain&logoColor=121212&color=FFFFFF" height="48" alt="LangChain" title="LangChain" />
+<img src="https://cdn.simpleicons.org/langchain" height="40" alt="LangChain" title="LangChain" />
+<img src="https://cdn.simpleicons.org/langgraph" height="40" alt="LangGraph" title="LangGraph" />
   <img src="https://go-skill-icons.vercel.app/api/icons?i=huggingface&theme=dark" height="48" alt="Hugging Face" title="Hugging Face" />
-  <img src="https://img.shields.io/badge/Runway_ML-242938?style=for-the-badge&logoColor=white" height="48" alt="Runway ML" title="Runway ML" />
-
+  <img src="https://cdn.simpleicons.org/databricks" height="40" alt="Databricks" title="Databricks" />
+  <img src="https://img.shields.io/badge/Runway_ML-242938?style=for-the-badge&logoColor=white" height="48" alt="Runway ML" title="Runway ML" /> 
 </p>
 
 ### ⚙️ IDEs, Version Control & DevOps
@@ -87,13 +88,13 @@ flowchart LR
 <img src="https://cdn.simpleicons.org/vercel/white" width="40" height="40" alt="Vercel" />
 <img src="https://cdn.simpleicons.org/render" width="40" height="40" alt="Render" />
 <img src="https://cdn.simpleicons.org/hostinger" width="40" height="40" alt="Hostinger" />
-<img src="https://go-skill-icons.vercel.app/api/icons?i=railway&theme=dark" height="48" alt="Railway" title="Railway" />
+<img src="https://go-skill-icons.vercel.app/api/icons?i=railway&theme=dark" height="48" alt="Railway" title="Railway" /> 
 
 ### 🤖 AI Automation
-<p align="left">
+<p align="left"> 
   <img src="https://go-skill-icons.vercel.app/api/icons?i=n8n&theme=dark" height="48" alt="n8n" title="n8n" />
   <img src="https://go-skill-icons.vercel.app/api/icons?i=claude&theme=dark" height="48" alt="Claude Console" title="Claude Console" />
-<img src="https://cdn.simpleicons.org/openrouter/white" height="40" alt="OpenRouter" title="OpenRouter" />
+  <img src="https://cdn.simpleicons.org/openrouter" height="40" alt="OpenRouter" title="OpenRouter" />
 </p> 
 
 ### 💬 Productivity & Collaboration
