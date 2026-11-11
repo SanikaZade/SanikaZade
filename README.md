@@ -95,6 +95,7 @@ flowchart LR
   <img src="https://go-skill-icons.vercel.app/api/icons?i=n8n&theme=dark" height="48" alt="n8n" title="n8n" />
   <img src="https://go-skill-icons.vercel.app/api/icons?i=claude&theme=dark" height="48" alt="Claude Console" title="Claude Console" />
   <img src="https://cdn.simpleicons.org/openrouter" height="40" alt="OpenRouter" title="OpenRouter" />
+  <img src="https://cdn.simpleicons.org/modelcontextprotocol/white" height="40" alt="MCP" title="Model Context Protocol (MCP)" />
 </p> 
 
 ### 💬 Productivity & Collaboration
