@@ -70,6 +70,8 @@ flowchart LR
   <img src="https://go-skill-icons.vercel.app/api/icons?i=jupyter&theme=dark" height="48" alt="Jupyter Notebook" title="Jupyter Notebook" />
   <img src="https://go-skill-icons.vercel.app/api/icons?i=antigravity&theme=dark" height="48" alt="Antigravity" title="Antigravity" />
   <img src="https://img.shields.io/badge/Runway_ML-242938?style=for-the-badge&logoColor=white" height="48" alt="Runway ML" title="Runway ML" />
+  <img src="https://img.shields.io/badge/-242938?style=for-the-badge&logo=langchain&logoColor=1C3C3C" height="48" alt="LangChain" title="LangChain" />
+  <img src="https://img.shields.io/badge/-242938?style=for-the-badge&logo=huggingface&logoColor=FFD21E" height="48" alt="Hugging Face" title="Hugging Face" />
 
 </p>
 
