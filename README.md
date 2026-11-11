@@ -81,7 +81,9 @@ flowchart LR
 ### 🌐 Full-Stack & Web Development
 <p align="left">
   <img src="https://skillicons.dev/icons?i=js,ts,react,vite,tailwind,nodejs,supabase&theme=dark" alt="Web Stack" />
-  <img src="https://skillicons.dev/icons?i=vercel,render,hostinger&theme=dark" alt="Vercel, Render, Hostinger" />
+<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
+<img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white" alt="Render" />
+<img src="https://img.shields.io/badge/Hostinger-673DE6?style=for-the-badge&logo=hostinger&logoColor=white" alt="Hostinger" />
 </p> 
 
 ### 🤖 AI Automation
