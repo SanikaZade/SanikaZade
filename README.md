@@ -62,6 +62,7 @@ flowchart LR
 ### 🧠 AI Engineering, ML & Notebooks
 <p align="left">
   <img src="https://skillicons.dev/icons?i=py,pytorch,tensorflow,sklearn&theme=dark" alt="Python, PyTorch, TensorFlow, scikit-learn" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=kaggle&theme=dark" height="48" alt="Kaggle" title="Kaggle" />
   <img src="https://go-skill-icons.vercel.app/api/icons?i=claude&theme=dark" height="48" alt="Anthropic Claude Console" title="Anthropic Claude Console" />
 <img src="https://go-skill-icons.vercel.app/api/icons?i=chatgpt&theme=dark" height="48" alt="Codex" title="Codex" />
   <img src="https://go-skill-icons.vercel.app/api/icons?i=cursor&theme=dark" height="48" alt="Cursor" title="Cursor" />
@@ -86,6 +87,7 @@ flowchart LR
 <img src="https://cdn.simpleicons.org/vercel/white" width="40" height="40" alt="Vercel" />
 <img src="https://cdn.simpleicons.org/render" width="40" height="40" alt="Render" />
 <img src="https://cdn.simpleicons.org/hostinger" width="40" height="40" alt="Hostinger" />
+<img src="https://go-skill-icons.vercel.app/api/icons?i=railway&theme=dark" height="48" alt="Railway" title="Railway" />
 
 ### 🤖 AI Automation
 <p align="left">
