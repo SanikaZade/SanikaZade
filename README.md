@@ -82,9 +82,8 @@ flowchart LR
 <p align="left">
   <img src="https://skillicons.dev/icons?i=js,ts,react,vite,tailwind,nodejs,supabase&theme=dark" alt="Web Stack" />
 <img src="https://cdn.simpleicons.org/vercel/white" width="40" height="40" alt="Vercel" />
-<img src="https://cdn.simpleicons.org/render/white" width="40" height="40" alt="Render" />
-<img src="https://cdn.simpleicons.org/hostinger/white" width="40" height="40" alt="Hostinger" />
-</p> 
+<img src="https://cdn.simpleicons.org/render" width="40" height="40" alt="Render" />
+<img src="https://cdn.simpleicons.org/hostinger" width="40" height="40" alt="Hostinger" />
 
 ### 🤖 AI Automation
 <p align="left">
