@@ -57,56 +57,57 @@ flowchart LR
 
 ---
 
-## 🛠️ Tools & Technologies
+## 🛠 Tools & Technologies
 
 ### 🧠 AI Engineering, ML & Notebooks
 <p align="left">
   <img src="https://skillicons.dev/icons?i=py,pytorch,tensorflow,sklearn&theme=dark" alt="Python, PyTorch, TensorFlow, scikit-learn" />
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=kaggle&theme=dark" height="48" alt="Kaggle" title="Kaggle" />
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=claude&theme=dark" height="48" alt="Anthropic Claude Console" title="Anthropic Claude Console" />
-<img src="https://go-skill-icons.vercel.app/api/icons?i=chatgpt&theme=dark" height="48" alt="Codex" title="Codex" />
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=cursor&theme=dark" height="48" alt="Cursor" title="Cursor" />
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=streamlit&theme=dark" height="48" alt="Streamlit" title="Streamlit" />
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=googlecolab&theme=dark" height="48" alt="Google Colab" title="Google Colab" />
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=jupyter&theme=dark" height="48" alt="Jupyter Notebook" title="Jupyter Notebook" />
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=antigravity&theme=dark" height="48" alt="Antigravity" title="Antigravity" />
-<img src="https://cdn.simpleicons.org/langchain" height="40" alt="LangChain" title="LangChain" />
-<img src="https://cdn.simpleicons.org/langgraph" height="40" alt="LangGraph" title="LangGraph" />
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=huggingface&theme=dark" height="48" alt="Hugging Face" title="Hugging Face" />
+  <img src="https://raw.githubusercontent.com/LelouchFR/skill-icons/main/assets/kaggle-dark.svg" height="48" alt="Kaggle" title="Kaggle" />
+  <img src="https://raw.githubusercontent.com/LelouchFR/skill-icons/main/assets/claude-dark.svg" height="48" alt="Anthropic Claude Console" title="Anthropic Claude Console" />
+  <img src="https://raw.githubusercontent.com/LelouchFR/skill-icons/main/assets/chatgpt-dark.svg" height="48" alt="Codex" title="Codex" />
+  <img src="https://raw.githubusercontent.com/LelouchFR/skill-icons/main/assets/cursor-dark.svg" height="48" alt="Cursor" title="Cursor" />
+  <img src="https://raw.githubusercontent.com/LelouchFR/skill-icons/main/assets/streamlit-dark.svg" height="48" alt="Streamlit" title="Streamlit" />
+  <img src="https://raw.githubusercontent.com/LelouchFR/skill-icons/main/assets/googlecolab-dark.svg" height="48" alt="Google Colab" title="Google Colab" />
+  <img src="https://raw.githubusercontent.com/LelouchFR/skill-icons/main/assets/jupyter-dark.svg" height="48" alt="Jupyter Notebook" title="Jupyter Notebook" />
+  <img src="https://raw.githubusercontent.com/LelouchFR/skill-icons/main/assets/antigravity-dark.svg" height="48" alt="Antigravity" title="Antigravity" />
+  <img src="https://cdn.simpleicons.org/langchain" height="40" alt="LangChain" title="LangChain" />
+  <img src="https://cdn.simpleicons.org/langgraph" height="40" alt="LangGraph" title="LangGraph" />
+  <img src="https://raw.githubusercontent.com/LelouchFR/skill-icons/main/assets/huggingface-dark.svg" height="48" alt="Hugging Face" title="Hugging Face" />
   <img src="https://cdn.simpleicons.org/databricks" height="40" alt="Databricks" title="Databricks" />
-  <img src="https://img.shields.io/badge/Runway_ML-242938?style=for-the-badge&logoColor=white" height="48" alt="Runway ML" title="Runway ML" /> 
+  <img src="https://img.shields.io/badge/Runway_ML-242938?style=for-the-badge&logoColor=white" height="48" alt="Runway ML" title="Runway ML" />
 </p>
 
 ### ⚙️ IDEs, Version Control & DevOps
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=github,git,docker,vscode,anaconda&theme=dark" alt="DevOps and IDEs" /> 
+  <img src="https://skillicons.dev/icons?i=github,git,docker,vscode,anaconda&theme=dark" alt="DevOps and IDEs" />
 </p>
 
 ### 🌐 Full-Stack & Web Development
 <p align="left">
   <img src="https://skillicons.dev/icons?i=js,ts,react,vite,tailwind,nodejs,supabase&theme=dark" alt="Web Stack" />
-<img src="https://cdn.simpleicons.org/vercel/white" width="40" height="40" alt="Vercel" />
-<img src="https://cdn.simpleicons.org/render" width="40" height="40" alt="Render" />
-<img src="https://cdn.simpleicons.org/hostinger" width="40" height="40" alt="Hostinger" />
-<img src="https://go-skill-icons.vercel.app/api/icons?i=railway&theme=dark" height="48" alt="Railway" title="Railway" /> 
+  <img src="https://cdn.simpleicons.org/vercel/white" width="40" height="40" alt="Vercel" />
+  <img src="https://cdn.simpleicons.org/render" width="40" height="40" alt="Render" />
+  <img src="https://cdn.simpleicons.org/hostinger" width="40" height="40" alt="Hostinger" />
+  <img src="https://raw.githubusercontent.com/LelouchFR/skill-icons/main/assets/railway-dark.svg" height="48" alt="Railway" title="Railway" />
+</p>
 
-### 🤖 AI Automation
-<p align="left"> 
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=n8n&theme=dark" height="48" alt="n8n" title="n8n" />
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=claude&theme=dark" height="48" alt="Claude Console" title="Claude Console" />
+### 🤖 AI Agent & Automation
+<p align="left">
+  <img src="https://raw.githubusercontent.com/LelouchFR/skill-icons/main/assets/n8n-dark.svg" height="48" alt="n8n" title="n8n" />
+  <img src="https://raw.githubusercontent.com/LelouchFR/skill-icons/main/assets/claude-dark.svg" height="48" alt="Claude Console" title="Claude Console" />
   <img src="https://cdn.simpleicons.org/openrouter" height="40" alt="OpenRouter" title="OpenRouter" />
   <img src="https://cdn.simpleicons.org/modelcontextprotocol/white" height="40" alt="MCP" title="Model Context Protocol (MCP)" />
-</p> 
+</p>
 
 ### 💬 Productivity & Collaboration
 <p align="left">
   <img src="https://skillicons.dev/icons?i=notion&theme=dark" height="48" alt="Notion" title="Notion" />
-<img src="https://cdn.simpleicons.org/perplexity/1FB8CD" height="40" alt="Perplexity" title="Perplexity" />
-<img src="https://cdn.simpleicons.org/notebooklm/white" height="40" alt="NotebookLM" title="NotebookLM" />
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=slack&theme=dark" height="48" alt="Slack" title="Slack" /> 
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=discord&theme=dark" height="48" alt="Discord" title="Discord" />
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=canva&theme=dark" height="48" alt="Canva" title="Canva" />
-</p> 
+  <img src="https://cdn.simpleicons.org/perplexity/1FB8CD" height="40" alt="Perplexity" title="Perplexity" />
+  <img src="https://cdn.simpleicons.org/notebooklm/white" height="40" alt="NotebookLM" title="NotebookLM" />
+  <img src="https://raw.githubusercontent.com/LelouchFR/skill-icons/main/assets/slack-dark.svg" height="48" alt="Slack" title="Slack" />
+  <img src="https://raw.githubusercontent.com/LelouchFR/skill-icons/main/assets/discord.svg" height="48" alt="Discord" title="Discord" />
+  <img src="https://raw.githubusercontent.com/LelouchFR/skill-icons/main/assets/canva-dark.svg" height="48" alt="Canva" title="Canva" />
+</p>
 ---
 
 ## 📊 GitHub Stats
