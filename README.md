@@ -59,7 +59,7 @@ flowchart LR
 
 ## 🛠 Tools & Technologies
 
-### 🧠 AI Engineering, ML & Notebooks
+### 🧠 ML & Notebooks
 <p align="left">
   <img src="https://skillicons.dev/icons?i=py,pytorch,tensorflow,sklearn&theme=dark" alt="Python, PyTorch, TensorFlow, scikit-learn" />
   <img src="https://raw.githubusercontent.com/LelouchFR/skill-icons/main/assets/kaggle-dark.svg" height="48" alt="Kaggle" title="Kaggle" />
@@ -92,14 +92,14 @@ flowchart LR
 </p>
 
 ### 🤖 AI Agent & Automation
-<p align="left">
+<p align="left"> 
   <img src="https://raw.githubusercontent.com/LelouchFR/skill-icons/main/assets/n8n-dark.svg" height="48" alt="n8n" title="n8n" />
   <img src="https://raw.githubusercontent.com/LelouchFR/skill-icons/main/assets/claude-dark.svg" height="48" alt="Claude Console" title="Claude Console" />
   <img src="https://cdn.simpleicons.org/openrouter" height="40" alt="OpenRouter" title="OpenRouter" />
   <img src="https://cdn.simpleicons.org/modelcontextprotocol/white" height="40" alt="MCP" title="Model Context Protocol (MCP)" />
 </p>
 
-### 💬 Productivity & Collaboration
+### 💬 Productivity & Collaboration 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=notion&theme=dark" height="48" alt="Notion" title="Notion" />
   <img src="https://cdn.simpleicons.org/perplexity/1FB8CD" height="40" alt="Perplexity" title="Perplexity" />
