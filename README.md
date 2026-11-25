@@ -17,7 +17,6 @@ Final-year B.Tech AI/ML student · Data Analytics Enthusiast · Aspiring ML Engi
   <img src="https://img.shields.io/badge/Status-Final_Year_B.Tech-orange?style=flat-square" alt="Final-year B.Tech student" />
   <img src="https://komarev.com/ghpvc/?username=SanikaZade&label=Profile+Views&color=0e75b6&style=flat-square" alt="Profile views" />
 </p>
-
 ---
 
 I enjoy applying data analytics, machine learning, and generative AI to messy, real-world problems — the harder the dataset, the more interesting the story it tells.
